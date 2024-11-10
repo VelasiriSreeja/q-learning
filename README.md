@@ -8,6 +8,7 @@ Develop a Python program to derive the optimal policy using Q-Learning and compa
 
 ## Q LEARNING ALGORITHM
 Include the steps involved in the Q Learning algorithm
+
 Step 1:
 Initialize Q-table and hyperparameters.
 
